@@ -1,0 +1,87 @@
+Tie
+    Cards for player 1:  ['A', 'K', 'Q']
+    Cards for player 2:  ['A', 'K', 'Q']
+    Cards for player 3:  ['A', 'A', 'K']
+    Player lost: 3
+    -------------------------------------------------------
+    Game tied
+    Cards for player 1:  ['K']
+    Cards for player 2:  ['Q']
+    Player lost: 2
+    1 won the game.
+
+
+Triplet over pair
+    Cards for player 1:  ['K', 'K', 'Q']
+    Cards for player 2:  ['A', 'A', 'A']
+    Cards for player 3:  ['K', 'K', 'Q']
+    Player lost: 1
+    Player lost: 3
+    2 won the game.
+
+
+Largest pair
+    Cards for player 1:  ['K', 'Q', 'Q']
+    Cards for player 2:  ['A', 'A', 'K']
+    Cards for player 3:  ['K', 'K', 'Q']
+    Player lost: 1
+    Player lost: 3
+    2 won the game.
+
+
+Sequence tie
+    Cards for player 1:  ['A', 'K', 'Q']
+    Cards for player 2:  ['A', 'K', 'K']
+    Cards for player 3:  ['A', 'K', 'Q']
+    Player lost: 2
+    -------------------------------------------------------
+    Game tied
+    Cards for player 1:  ['A']
+    Cards for player 3:  ['Q']
+    Player lost: 3
+    1 won the game.
+
+Sequence over pair
+    Cards for player 1:  ['A', 'K', 'Q']
+    Cards for player 2:  ['A', 'A', 'K']
+    Cards for player 3:  ['A', 'Q', 'Q']
+    Player lost: 2
+    Player lost: 3
+    1 won the game.
+
+
+6 players
+    Cards for player 1:  ['Q', '8', '7']
+    Cards for player 2:  ['A', '5', '2']
+    Cards for player 3:  ['4', '4', '2']
+    Cards for player 4:  ['K', 'Q', '10']
+    Cards for player 5:  ['7', '4', '2']
+    Cards for player 6:  ['9', '5', '2']
+    Player lost: 1
+    Player lost: 2
+    Player lost: 3
+    Player lost: 5
+    Player lost: 6
+    4 won the game.
+
+Notpossible to break tie (only A, K, Q is available)
+    Cards for player 1:  ['A', 'A', 'K']
+    Cards for player 2:  ['A', 'A', 'K']
+    -------------------------------------------------------
+    Game tied
+    Cards for player 1:  ['Q']
+    Cards for player 2:  ['Q']
+    -------------------------------------------------------
+    Game tied
+    Cards for player 1:  ['K']
+    Cards for player 2:  ['K']
+    -------------------------------------------------------
+    Game tied
+    Cards for player 1:  ['Q']
+    Cards for player 2:  ['Q']
+    -------------------------------------------------------
+    Game tied
+    Cards for player 1:  []
+    Cards for player 2:  []
+    Not possible to break tie. All cards used.
+
